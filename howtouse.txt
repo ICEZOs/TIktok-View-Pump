@@ -1,0 +1,22 @@
+โหลด chromedriver.exe
+install chromedriver.exe
+Link : https://chromedriver.chromium.org/downloads
+โหลดให้ตรงกับเวอร์ชั่น Google Chrome ของเรา
+download with your google chrome version
+(ต้องมี Google Chrome อยู่ในเครื่องนะครับ)
+(download Google Chrome if you do not have)
+
+
+โหลด Python ลงในเครื่อง 
+install python
+https://www.python.org/ftp/python/3.10.4/python-3.10.4-amd64.exe
+
+Run installrequests.bat
+รัน installrequests.bat
+and wait
+แล้วรอ
+
+Run run.bat to use
+รัน run.bat เพื่อใช้งาน
+
+Credit : https://discord.gg/PU2CeJBZ95
